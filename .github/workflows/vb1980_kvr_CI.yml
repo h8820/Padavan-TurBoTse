@@ -1,7 +1,7 @@
 # Build from vb1980 kvr repo
 # BY: TurBoTse
 
-name: Build from vb1980 kvr repo
+name: Build from vb1980 kvr-1
 
 on: 
   workflow_dispatch:
