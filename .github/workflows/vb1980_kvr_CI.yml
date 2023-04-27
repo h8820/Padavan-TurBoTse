@@ -28,8 +28,8 @@ jobs:
     strategy:
       matrix:
         include:
-          - build_variant: "mt7620"
-            targets: "PSG1218"
+          - build_variant: "mt7621"
+            targets: "WR1200JS E8820V2"
         # - build_variant: "mt7620"
         #   targets: "PSG1208 PSG1218 NEWIFI-MINI MI-MINI MI-3 OYE-001 5K-W20"
         # - build_variant: "mt7621"
